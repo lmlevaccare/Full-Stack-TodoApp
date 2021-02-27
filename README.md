@@ -1,3 +1,3 @@
 * React Express MySQL Todo's
 
-*[Wireframe](https://github.com/loriculberson/react-express-mysql-todos)
+*[Wireframe](https://whimsical.com/fullstack-app-BCGJhmacRdbAbSnXVcWqqB)
