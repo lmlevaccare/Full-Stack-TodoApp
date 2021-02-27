@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import TodoApp gitfrom "./TodoApp"
+import TodoApp from "./TodoApp"
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
